@@ -1,5 +1,6 @@
 ---
-title: '## This is a mardown file'
+title: "HelloWorld"
+## This is a markdown file.
 author: "Mark Peterson"
 date: "September 15, 2014"
 output: html_document
